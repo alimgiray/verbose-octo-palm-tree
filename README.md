@@ -35,4 +35,4 @@
 
   `go test ./...`
 
-- After running the program, press `h` for help.
+- After running the program, press `h` for help / instructions.
