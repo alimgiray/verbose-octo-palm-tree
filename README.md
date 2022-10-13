@@ -14,7 +14,7 @@
 
   `go run . -from={your_private_key} -to={receiver_address} -amount={amount_to_send}`
 
-- `From` flag is required
+- `from` flag is required
 - Receiver address (`to` flag) by default is public Görli Faucet, you can omit if you want
 - Amount by default is 1000 GöWei, you can omit if you want
 - If everything goes well, it'll print the transaction hash.
